@@ -1,11 +1,18 @@
 Job Application Details
 =======================
-Applicant Name: vamshi amudala
-Email: vamshiamudala126@gmail.com
-Phone: 6302904268
-Education: Master of Computer Applications
+Applicant Name: SUDHIKSHA TIRMAL
+Email: sudhiksha.tirmal@gmail.com
+Phone: null
+Education: null
 
+<<<<<<< HEAD
 Job Title: Penetration Tester
 Company: Microsoft
 Location: Hyderabad
 Experience Required: 4
+=======
+Job Title: React Developer
+Company: Microsoft
+Location: null
+Experience Required: 2
+>>>>>>> 0f6e525 (file added)

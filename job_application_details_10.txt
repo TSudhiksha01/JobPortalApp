@@ -1,0 +1,11 @@
+Job Application Details
+=======================
+Applicant Name: divya
+Email: divya@gmail.com
+Phone: null
+Education: null
+
+Job Title: QA Engineer
+Company: Capgemini
+Location: null
+Experience Required: 1
