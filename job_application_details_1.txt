@@ -5,7 +5,7 @@ Email: sudhiksha.tirmal@gmail.com
 Phone: null
 Education: null
 
-Job Title: QA Engineer
-Company: Capgemini
+Job Title: React Developer
+Company: Microsoft
 Location: null
-Experience Required: 1
+Experience Required: 2

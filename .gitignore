@@ -34,4 +34,4 @@ build/
 
 # Environment file
 .env
-.txt
+*.txt
