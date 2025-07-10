@@ -5,7 +5,7 @@ Email: sudhiksha.tirmal@gmail.com
 Phone: null
 Education: null
 
-Job Title: React Developer
-Company: Microsoft
-Location: null
-Experience Required: 2
+Job Title: Software Engineer
+Company: Accenture
+Location: Bangalore,KA
+Experience Required: 1
